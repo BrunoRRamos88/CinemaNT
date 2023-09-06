@@ -1,4 +1,4 @@
-Aqui está um sistema de venda de ingressos simples para um desafio
+✅ Aqui está um sistema de venda de ingressos 🎫 simples para um desafio
 proposto:
 
 Devemos construir um sistema para realização de venda de ingressos:
